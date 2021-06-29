@@ -4,5 +4,5 @@
 
 I'm Hossen who is passionate about writing code, solving problems, automating stuff, and building WEB apps.
 
-📚 I’m currently learning Front-end and Backend web development using HTML, CSS, React, NodeJS, ExpressJS and MongoDB.
-📫 How to reach me: imhossen@pm.me
+- 📚 I’m currently learning Front-end and Backend web development using HTML, CSS, React, NodeJS, ExpressJS and MongoDB.
+- 📫 How to reach me: imhossen@pm.me
